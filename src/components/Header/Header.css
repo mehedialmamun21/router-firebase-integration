@@ -8,3 +8,9 @@
 .header nav a:hover {
     color: goldenrod;
 }
+
+.header nav span{
+    margin-right: 10px;
+    font-weight: bolder;
+    color: goldenrod;
+}
